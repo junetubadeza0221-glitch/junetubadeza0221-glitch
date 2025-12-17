@@ -1,7 +1,8 @@
 👋 Hi, I'm June!
 
-ABOUT ME
-I Love playing basketball,online games always
+ABOUT ME:
+
+-I Love playing basketball,online games always
 - 💻 IT Student / 2nd year college student, 
 - Currently learning HTML, CSS, JavaScript
 
