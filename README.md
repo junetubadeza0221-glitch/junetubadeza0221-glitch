@@ -1,4 +1,4 @@
-👋 Hi, I'm June!
+👋 Hi, I'm JUNE TUBADEZA 
 
 ABOUT ME:
 
@@ -21,11 +21,9 @@ GOAL:
 
 - Simple Portfolio Website
 A personal website using HTML & CSS
-https://github.com/junetubadeza0221-glitch/portfolio
 
 - Login Form UI
 A simple login interface design
-🔗 https://github.com/junetubadeza0221-glitch/login-form
 
 📫 Contact Me
 
